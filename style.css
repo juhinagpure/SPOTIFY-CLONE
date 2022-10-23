@@ -41,6 +41,7 @@ nav ul li{
    position: sticky;
    height: 130px;
    background-color: black; 
+   color: white;
    bottom: 0;
    display: flex;
    justify-content: center;
