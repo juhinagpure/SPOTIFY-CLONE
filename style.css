@@ -32,6 +32,20 @@ nav ul li {
     padding: 0 8px;
 }
 
+.container {
+    min-height: 72vh;
+    background-color: black;
+    color: white;
+    font-family: 'verela round', sans-serif;
+    display: flex;
+    width: 70%;
+    margin: 23px auto;
+    border-radius: 12px;
+    padding: 34px;
+    background-image: url("bg.jpg");
+}
+
+
 .brand {
     display: flex;
     align-items: center;
@@ -45,6 +59,7 @@ nav ul li {
 
 .bottom {
     position: sticky;
+    bottom: 0;
     height: 130px;
     background-color: black;
     color: white;
