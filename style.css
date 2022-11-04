@@ -63,7 +63,6 @@ nav ul li {
     height: 130px;
     background-color: black;
     color: white;
-    bottom: 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -81,7 +80,4 @@ nav ul li {
 #myProgressBar {
     width: 80vw;
     text-align: center;
-}
-.juhi{
-    background-color: green
 }
