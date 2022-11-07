@@ -38,8 +38,8 @@ nav ul li {
     color: white;
     font-family: 'verela round', sans-serif;
     display: flex;
-    width: 70%;
     margin: 23px auto;
+    width: 70%;
     border-radius: 12px;
     padding: 34px;
     background-image: url("bg.jpg");
@@ -80,7 +80,4 @@ nav ul li {
 #myProgressBar {
     width: 80vw;
     text-align: center;
-}
-.juhi{
-    background-color: antiquewhite;
 }
